@@ -1,5 +1,5 @@
 /*
- *This program run as client side to ask request and accept number of words in the text  
+ *This program will run as client side to ask request and accept number of words in the text  
  *
  *@author SyaqirahSazalee
  */
